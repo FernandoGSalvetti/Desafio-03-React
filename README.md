@@ -5,4 +5,4 @@
   <li> yarn </li>
   <li> yarn server</li>
 </ul>
-<p>Após estes dois comandos serem concluídos de um <strong>yarn start</strong>, para rodar a aplicação.</p>
+<p>Após estes dois comandos serem concluídos utilize o comando <strong>yarn start</strong>, para rodar a aplicação.</p>
