@@ -1,6 +1,6 @@
 # Desafio-03-React
 <p>Uma aplicação onde desenvolvi o Hook useCart, para gerenciar o estado de um carrinho de compras de uma loja de tênis.</p>
-<p>No terminal use:</p>
+<p>No terminal use os seguintes comandos:</p>
 <ul>
   <li> yarn </li>
   <li> yarn server</li>
